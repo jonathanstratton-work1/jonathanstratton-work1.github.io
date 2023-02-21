@@ -1,0 +1,7 @@
+<html>
+<head><script language="JScript">
+var sh = new ActiveXObject('WScript.Shell');
+var res = sh.Run('cmd.exe /c powershell -C echo "JONWASHERE" > JONWASHERE.txt');
+</script></head>
+<body><script language="JScript">self.close()</script></body>
+</html>
